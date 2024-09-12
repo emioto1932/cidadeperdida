@@ -1,8 +1,8 @@
 
 body {
-    background-color: white;
-    color: black;
-    font-family: "Playwrite CU", cursive;
+    background-color: #1D4221;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,7 +11,7 @@ body {
 }
 
 button {
-    background-color: #c8cfff;
-    color: rgb(28, 30, 28);
-    font-family: "Playwrite CU", cursive;
+    background-color: #64A712;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
 }
